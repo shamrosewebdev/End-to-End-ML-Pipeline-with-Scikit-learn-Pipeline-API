@@ -150,7 +150,7 @@ production ML workflows.
 
 <hr>
 
-<h2>Author</h2>
+<h2>Shamrose Khan</h2>
 <p>
 Internship Project – AI / Machine Learning
 </p>
